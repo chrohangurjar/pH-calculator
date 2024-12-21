@@ -1,7 +1,9 @@
 
+---
+
 # 🌟 pH Calculator 🧪
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=pH+Calculator+Project)
+![Project Banner](https://via.placeholder.com/1200x300.png?text=pH+Calculator+Project)  <!-- Replace with actual project banner -->
 
 ## 📋 Overview
 The **pH Calculator** is a simple yet powerful Python-based tool designed to compute the pH of a solution given its hydrogen ion concentration. This tool is perfect for students, chemists, and enthusiasts exploring the fascinating world of acids and bases.
@@ -24,7 +26,7 @@ The **pH Calculator** is a simple yet powerful Python-based tool designed to com
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ph-calculator.git
+   git clone https://github.com/chrohangurjar/ph-calculator.git  # Corrected repository URL
    ```
 2. Navigate to the project folder:
    ```bash
@@ -101,3 +103,5 @@ For any queries or feedback, feel free to reach out:
 ```markdown
 ⭐ **Your support keeps us going!** 🚀
 ```
+
+---
